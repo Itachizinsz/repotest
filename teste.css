@@ -1,0 +1,11 @@
+*{
+    display: flex;
+    border: 0;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    margin-top: 10vh;
+}
